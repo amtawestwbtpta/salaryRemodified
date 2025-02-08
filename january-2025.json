@@ -43,7 +43,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 2000,
     "gsli": 0,
     "arrear": 0
   },
@@ -439,7 +439,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 0,
+    "gpf": 2000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1123,7 +1123,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 2000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1177,13 +1177,13 @@
   },
   {
     "id": "teachers193",
-    "tname": "MONI SANKAR BERA",
-    "basic": 27000,
+    "tname": "TARAK NATH MONDAL",
+    "basic": 33500,
     "addl": 0,
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 2500,
     "gsli": 0,
     "arrear": 0
   },
@@ -1231,7 +1231,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 2000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3247,7 +3247,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 2000,
     "gsli": 0,
     "arrear": 0
   },
