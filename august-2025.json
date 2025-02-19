@@ -2069,7 +2069,7 @@
     "basic": 51700,
     "addl": 0,
     "daPercent": 0.18,
-    "hraPercent": 0.12,
+    "hraPercent":0,
     "ma": 500,
     "gpf": 15000,
     "gsli": 0,
