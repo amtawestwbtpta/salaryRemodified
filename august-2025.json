@@ -228,30 +228,6 @@
     "arrear": 0
   },
   {
-    "id": "teachers119",
-    "tname": "PRABIR KUMAR CHAKRABORTY",
-    "basic": 0,
-    "addl": 0,
-    "daPercent": 0.18,
-    "hraPercent": 0.12,
-    "ma": 0,
-    "gpf": 0,
-    "gsli": 0,
-    "arrear": 0
-  },
-  {
-    "id": "teachers120",
-    "tname": "JAYANTI MAJUMDER",
-    "basic": 0,
-    "addl": 0,
-    "daPercent": 0.18,
-    "hraPercent": 0.12,
-    "ma": 0,
-    "gpf": 0,
-    "gsli": 0,
-    "arrear": 0
-  },
-  {
     "id": "teachers121",
     "tname": "MANAS CHAKRABORTY",
     "basic": 50300,
@@ -2069,7 +2045,7 @@
     "basic": 51700,
     "addl": 0,
     "daPercent": 0.18,
-    "hraPercent":0,
+    "hraPercent": 0,
     "ma": 500,
     "gpf": 15000,
     "gsli": 0,
@@ -3572,6 +3548,66 @@
     "hraPercent": 0.12,
     "ma": 0,
     "gpf": 2000,
+    "gsli": 0,
+    "arrear": 0
+  },
+  {
+    "id": "teachers396-3fc4378f",
+    "tname": "SAKINA KHATOON",
+    "basic": 0,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 0,
+    "gsli": 0,
+    "arrear": 0
+  },
+  {
+    "id": "teachers399-29d8e169",
+    "tname": "SUBHRAJYOTI SAU",
+    "basic": 0,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 0,
+    "gpf": 0,
+    "gsli": 0,
+    "arrear": 0
+  },
+  {
+    "id": "teachers395-e928c8e3",
+    "tname": "DIBYENDU SAMANTA",
+    "basic": 0,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 0,
+    "gpf": 0,
+    "gsli": 0,
+    "arrear": 0
+  },
+  {
+    "id": "teachers397-a816599d",
+    "tname": "DEB KUMAR GAYEN",
+    "basic": 0,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 0,
+    "gsli": 0,
+    "arrear": 0
+  },
+  {
+    "id": "teachers398-0d5c8f45",
+    "tname": "NAYANTARA DHARA",
+    "basic": 0,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 0,
     "gsli": 0,
     "arrear": 0
   }
