@@ -2,7 +2,7 @@
   {
     "id": "teachers101",
     "tname": "SOHINI PAUL",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -62,7 +62,7 @@
   {
     "id": "teachers106",
     "tname": "TAPAS KARMAKAR",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -79,7 +79,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -98,7 +98,7 @@
   {
     "id": "teachers109",
     "tname": "SOHEL REJA",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -307,7 +307,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 10000,
+    "gpf": 15000,
     "gsli": 0,
     "arrear": 0
   },
@@ -319,7 +319,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -391,7 +391,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -458,7 +458,7 @@
   {
     "id": "teachers395-e9d452d8",
     "tname": "PIYALI BERA",
-    "basic": 0,
+    "basic": 24700,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -559,7 +559,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 5000,
+    "gpf": 6000,
     "gsli": 0,
     "arrear": 0
   },
@@ -595,7 +595,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -619,19 +619,19 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3500,
     "gsli": 0,
     "arrear": 0
   },
   {
     "id": "teachers152",
     "tname": "KARTICK GHOSH",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 2000,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -703,7 +703,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 4000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -746,7 +746,7 @@
   {
     "id": "teachers162",
     "tname": "HEMA HALDER",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -799,7 +799,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 4000,
+    "gpf": 7000,
     "gsli": 0,
     "arrear": 0
   },
@@ -883,7 +883,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -991,7 +991,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1166,7 +1166,7 @@
   {
     "id": "teachers194",
     "tname": "SEKHAR PALMAL",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -1639,7 +1639,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1675,7 +1675,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1783,7 +1783,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 7000,
+    "gpf": 8000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1795,7 +1795,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 8000,
+    "gpf": 9000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2006,7 +2006,7 @@
   {
     "id": "teachers261",
     "tname": "KHEYALI MALAKAR",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -2222,7 +2222,7 @@
   {
     "id": "teachers396-680da03e",
     "tname": "SHEULI PRODHAN",
-    "basic": 0,
+    "basic": 24700,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -2275,7 +2275,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 10000,
+    "gpf": 13000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2287,7 +2287,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5500,
     "gsli": 0,
     "arrear": 0
   },
@@ -2311,7 +2311,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2335,7 +2335,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2395,7 +2395,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 7000,
+    "gpf": 10000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2443,7 +2443,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2455,7 +2455,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 6000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2539,7 +2539,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 0,
     "gsli": 0,
     "arrear": 0
   },
@@ -2563,7 +2563,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2743,7 +2743,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 8000,
+    "gpf": 10000,
     "gsli": 60,
     "arrear": 0
   },
@@ -2947,7 +2947,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2959,7 +2959,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 4000,
+    "gpf": 6000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2971,7 +2971,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3074,7 +3074,7 @@
   {
     "id": "teachers346",
     "tname": "LIPIKA MONDAL",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -3103,7 +3103,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3271,7 +3271,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3451,7 +3451,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 7000,
+    "gpf": 8000,
     "gsli": 60,
     "arrear": 0
   },
@@ -3475,7 +3475,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 10000,
+    "gpf": 12000,
     "gsli": 0,
     "arrear": 0
   },
