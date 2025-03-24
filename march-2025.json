@@ -9,7 +9,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers102",
@@ -21,7 +22,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers103",
@@ -33,7 +35,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers104",
@@ -45,7 +48,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers105",
@@ -57,7 +61,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers106",
@@ -69,7 +74,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers107",
@@ -81,7 +87,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers108",
@@ -93,7 +100,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers109",
@@ -105,7 +113,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers110",
@@ -117,7 +126,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers111",
@@ -129,7 +139,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers112",
@@ -141,7 +152,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers388-61383f93",
@@ -153,7 +165,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers113",
@@ -165,7 +178,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers114",
@@ -177,7 +191,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers115",
@@ -189,7 +204,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers116",
@@ -201,7 +217,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers117",
@@ -213,7 +230,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers118",
@@ -225,7 +243,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers121",
@@ -237,7 +256,8 @@
     "ma": 0,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers122",
@@ -249,7 +269,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers123",
@@ -261,7 +282,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers124",
@@ -273,7 +295,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers125",
@@ -285,7 +308,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers126",
@@ -297,7 +321,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers127",
@@ -309,7 +334,8 @@
     "ma": 500,
     "gpf": 15000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers128",
@@ -321,7 +347,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers129",
@@ -333,7 +360,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers130",
@@ -345,7 +373,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers131",
@@ -357,7 +386,8 @@
     "ma": 0,
     "gpf": 4000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers132",
@@ -369,7 +399,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers133",
@@ -381,7 +412,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers134",
@@ -393,7 +425,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers135",
@@ -405,7 +438,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers136",
@@ -417,7 +451,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers389-da7ce61c",
@@ -429,7 +464,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers137",
@@ -441,7 +477,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers138",
@@ -453,7 +490,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers395-e9d452d8",
@@ -465,7 +503,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers139",
@@ -477,7 +516,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers140",
@@ -489,7 +529,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers141",
@@ -501,7 +542,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers142",
@@ -513,7 +555,8 @@
     "ma": 0,
     "gpf": 7000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers143",
@@ -525,7 +568,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers144",
@@ -537,7 +581,8 @@
     "ma": 500,
     "gpf": 8000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers145",
@@ -549,7 +594,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers146",
@@ -561,7 +607,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers147",
@@ -573,7 +620,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers148",
@@ -585,7 +633,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers149",
@@ -597,7 +646,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers150",
@@ -609,7 +659,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers151",
@@ -621,7 +672,8 @@
     "ma": 500,
     "gpf": 3500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers152",
@@ -633,7 +685,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers153",
@@ -645,7 +698,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers154",
@@ -657,7 +711,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers155",
@@ -669,7 +724,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers156",
@@ -681,7 +737,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers157",
@@ -693,7 +750,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers158",
@@ -705,7 +763,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers159",
@@ -717,7 +776,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers160",
@@ -729,7 +789,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers161",
@@ -741,7 +802,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers162",
@@ -753,7 +815,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers398-7bc9c6b0",
@@ -765,7 +828,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers163",
@@ -777,7 +841,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers164",
@@ -789,7 +854,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers165",
@@ -801,7 +867,8 @@
     "ma": 500,
     "gpf": 7000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers166",
@@ -813,7 +880,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers167",
@@ -825,7 +893,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers168",
@@ -837,7 +906,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers169",
@@ -849,7 +919,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers170",
@@ -861,7 +932,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers390-79bf2ea7",
@@ -873,7 +945,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers171",
@@ -885,7 +958,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers172",
@@ -897,7 +971,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers173",
@@ -909,7 +984,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers174",
@@ -921,7 +997,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers175",
@@ -933,7 +1010,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers176",
@@ -945,7 +1023,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers177",
@@ -957,7 +1036,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers178",
@@ -969,7 +1049,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers179",
@@ -981,7 +1062,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers180",
@@ -993,7 +1075,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers181",
@@ -1005,7 +1088,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers182",
@@ -1017,7 +1101,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers183",
@@ -1029,7 +1114,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers184",
@@ -1041,7 +1127,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers185",
@@ -1053,7 +1140,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers186",
@@ -1065,7 +1153,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers187",
@@ -1077,7 +1166,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers188",
@@ -1089,7 +1179,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers189",
@@ -1101,7 +1192,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers385-d26e20d3",
@@ -1113,7 +1205,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers190",
@@ -1125,7 +1218,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers191",
@@ -1137,7 +1231,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers192",
@@ -1149,7 +1244,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers193",
@@ -1161,7 +1257,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers194",
@@ -1173,7 +1270,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers195",
@@ -1185,7 +1283,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers196",
@@ -1197,7 +1296,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers197",
@@ -1209,7 +1309,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers198",
@@ -1221,7 +1322,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers199",
@@ -1233,7 +1335,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers200",
@@ -1245,7 +1348,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers201",
@@ -1257,7 +1361,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers202",
@@ -1269,7 +1374,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers203",
@@ -1281,7 +1387,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers204",
@@ -1293,7 +1400,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers205",
@@ -1305,7 +1413,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers206",
@@ -1317,7 +1426,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers207",
@@ -1329,7 +1439,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers208",
@@ -1341,7 +1452,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers209",
@@ -1353,7 +1465,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers210",
@@ -1365,7 +1478,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers211",
@@ -1377,7 +1491,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers212",
@@ -1389,7 +1504,8 @@
     "ma": 0,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers213",
@@ -1401,7 +1517,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers214",
@@ -1413,7 +1530,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers215",
@@ -1425,7 +1543,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers216",
@@ -1437,7 +1556,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers217",
@@ -1449,7 +1569,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers218",
@@ -1461,7 +1582,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers219",
@@ -1473,7 +1595,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers220",
@@ -1485,7 +1608,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers221",
@@ -1497,7 +1621,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers222",
@@ -1509,7 +1634,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers223",
@@ -1521,7 +1647,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers224",
@@ -1533,7 +1660,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers225",
@@ -1545,7 +1673,8 @@
     "ma": 500,
     "gpf": 15000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers226",
@@ -1557,7 +1686,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers227",
@@ -1569,7 +1699,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers228",
@@ -1581,7 +1712,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers229",
@@ -1593,7 +1725,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers230",
@@ -1605,7 +1738,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers231",
@@ -1617,7 +1751,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers232",
@@ -1629,7 +1764,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers233",
@@ -1641,7 +1777,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers391-12274feb",
@@ -1653,7 +1790,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers234",
@@ -1665,7 +1803,8 @@
     "ma": 500,
     "gpf": 7000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers235",
@@ -1677,7 +1816,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers236",
@@ -1689,7 +1829,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers237",
@@ -1701,7 +1842,8 @@
     "ma": 500,
     "gpf": 7000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers238",
@@ -1713,7 +1855,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers239",
@@ -1725,7 +1868,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers240",
@@ -1737,7 +1881,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers241",
@@ -1749,7 +1894,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers242",
@@ -1761,7 +1907,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers392-5190daaf",
@@ -1773,7 +1920,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers243",
@@ -1785,7 +1933,8 @@
     "ma": 500,
     "gpf": 8000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers244",
@@ -1797,7 +1946,8 @@
     "ma": 0,
     "gpf": 9000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers245",
@@ -1809,7 +1959,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers246",
@@ -1821,7 +1972,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers247",
@@ -1833,7 +1985,8 @@
     "ma": 500,
     "gpf": 8000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers248",
@@ -1845,7 +1998,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers249",
@@ -1857,7 +2011,8 @@
     "ma": 0,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers250",
@@ -1869,7 +2024,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers393-b8f65964",
@@ -1881,7 +2037,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers251",
@@ -1893,7 +2050,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers254",
@@ -1905,7 +2063,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers253",
@@ -1917,7 +2076,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers252",
@@ -1929,7 +2089,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers256",
@@ -1941,7 +2102,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers255",
@@ -1953,7 +2115,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers257",
@@ -1965,7 +2128,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers258",
@@ -1977,7 +2141,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers259",
@@ -1989,7 +2154,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers260",
@@ -2001,7 +2167,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers261",
@@ -2013,7 +2180,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers262",
@@ -2025,7 +2193,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers263",
@@ -2037,7 +2206,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers264",
@@ -2049,7 +2219,8 @@
     "ma": 500,
     "gpf": 15000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers265",
@@ -2061,7 +2232,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers266",
@@ -2073,7 +2245,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers267",
@@ -2085,7 +2258,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers268",
@@ -2097,7 +2271,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers269",
@@ -2109,7 +2284,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers270",
@@ -2121,7 +2297,8 @@
     "ma": 500,
     "gpf": 7000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers271",
@@ -2133,7 +2310,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers272",
@@ -2145,7 +2323,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers273",
@@ -2157,7 +2336,8 @@
     "ma": 500,
     "gpf": 3500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers274",
@@ -2169,7 +2349,8 @@
     "ma": 0,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers275",
@@ -2181,7 +2362,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers276",
@@ -2193,7 +2375,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers277",
@@ -2205,7 +2388,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers278",
@@ -2217,7 +2401,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers396-680da03e",
@@ -2229,7 +2414,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers279",
@@ -2241,7 +2427,8 @@
     "ma": 0,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers280",
@@ -2253,7 +2440,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers281",
@@ -2265,7 +2453,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers282",
@@ -2277,7 +2466,8 @@
     "ma": 500,
     "gpf": 13000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers283",
@@ -2289,7 +2479,8 @@
     "ma": 500,
     "gpf": 5500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers284",
@@ -2301,7 +2492,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers285",
@@ -2313,7 +2505,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers286",
@@ -2325,7 +2518,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers287",
@@ -2337,7 +2531,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers288",
@@ -2349,7 +2544,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers289",
@@ -2361,7 +2557,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers290",
@@ -2373,7 +2570,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers291",
@@ -2385,7 +2583,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers292",
@@ -2397,7 +2596,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers293",
@@ -2409,7 +2609,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers294",
@@ -2421,7 +2622,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers295",
@@ -2433,7 +2635,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers296",
@@ -2445,7 +2648,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers297",
@@ -2457,7 +2661,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers298",
@@ -2469,7 +2674,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers299",
@@ -2481,7 +2687,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers300",
@@ -2493,7 +2700,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers301",
@@ -2505,7 +2713,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers302",
@@ -2517,7 +2726,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers303",
@@ -2529,7 +2739,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers387-8a82d5ab",
@@ -2541,7 +2752,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers304",
@@ -2553,7 +2765,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers305",
@@ -2565,7 +2778,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers306",
@@ -2577,7 +2791,8 @@
     "ma": 0,
     "gpf": 4000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers307",
@@ -2589,7 +2804,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers308",
@@ -2601,7 +2817,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers309",
@@ -2613,7 +2830,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers310",
@@ -2625,7 +2843,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers311",
@@ -2637,7 +2856,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers312",
@@ -2649,7 +2869,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers313",
@@ -2661,7 +2882,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers314",
@@ -2673,7 +2895,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers315",
@@ -2685,7 +2908,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers316",
@@ -2697,7 +2921,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers317",
@@ -2709,7 +2934,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers318",
@@ -2721,7 +2947,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers386-dbc88f20",
@@ -2733,7 +2960,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers319",
@@ -2745,7 +2973,8 @@
     "ma": 0,
     "gpf": 10000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers320",
@@ -2757,7 +2986,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers321",
@@ -2769,7 +2999,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers322",
@@ -2781,7 +3012,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers323",
@@ -2793,7 +3025,8 @@
     "ma": 0,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers324",
@@ -2805,7 +3038,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers325",
@@ -2817,7 +3051,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers326",
@@ -2829,7 +3064,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers327",
@@ -2841,7 +3077,8 @@
     "ma": 0,
     "gpf": 3500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers328",
@@ -2853,7 +3090,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers329",
@@ -2865,7 +3103,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers330",
@@ -2877,7 +3116,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers331",
@@ -2889,7 +3129,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers332",
@@ -2901,7 +3142,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers333",
@@ -2913,7 +3155,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers334",
@@ -2925,7 +3168,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers335",
@@ -2937,7 +3181,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers388-9d83883f",
@@ -2949,7 +3194,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers336",
@@ -2961,7 +3207,8 @@
     "ma": 500,
     "gpf": 6000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers337",
@@ -2973,7 +3220,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers338",
@@ -2985,7 +3233,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers339",
@@ -2997,7 +3246,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers340",
@@ -3009,7 +3259,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers341",
@@ -3021,7 +3272,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers342",
@@ -3033,7 +3285,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers343",
@@ -3045,7 +3298,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers344",
@@ -3057,7 +3311,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers345",
@@ -3069,7 +3324,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers346",
@@ -3081,7 +3337,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers347",
@@ -3093,7 +3350,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers348",
@@ -3105,7 +3363,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers349",
@@ -3117,7 +3376,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers350",
@@ -3129,7 +3389,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers351",
@@ -3141,7 +3402,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers352",
@@ -3153,7 +3415,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers353",
@@ -3165,7 +3428,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers354",
@@ -3177,7 +3441,8 @@
     "ma": 500,
     "gpf": 12000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers355",
@@ -3189,7 +3454,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers356",
@@ -3201,7 +3467,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers357",
@@ -3213,7 +3480,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers358",
@@ -3225,7 +3493,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers359",
@@ -3237,7 +3506,8 @@
     "ma": 0,
     "gpf": 7000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers360",
@@ -3249,7 +3519,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers361",
@@ -3261,7 +3532,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers362",
@@ -3273,7 +3545,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers363",
@@ -3285,7 +3558,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers364",
@@ -3297,7 +3571,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers365",
@@ -3309,7 +3584,8 @@
     "ma": 500,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers366",
@@ -3321,7 +3597,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers367",
@@ -3333,7 +3610,8 @@
     "ma": 0,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers394-a4f17403",
@@ -3345,7 +3623,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers368",
@@ -3357,7 +3636,8 @@
     "ma": 0,
     "gpf": 4000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers369",
@@ -3369,7 +3649,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers370",
@@ -3381,7 +3662,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers371",
@@ -3393,7 +3675,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers372",
@@ -3405,7 +3688,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers373",
@@ -3417,7 +3701,8 @@
     "ma": 500,
     "gpf": 10000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers374",
@@ -3429,7 +3714,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers375",
@@ -3441,7 +3727,8 @@
     "ma": 500,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers376",
@@ -3453,7 +3740,8 @@
     "ma": 0,
     "gpf": 8000,
     "gsli": 60,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers377",
@@ -3465,7 +3753,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers378",
@@ -3477,7 +3766,8 @@
     "ma": 0,
     "gpf": 12000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers379",
@@ -3489,7 +3779,8 @@
     "ma": 500,
     "gpf": 3000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers380",
@@ -3501,7 +3792,8 @@
     "ma": 500,
     "gpf": 5000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers381",
@@ -3513,7 +3805,8 @@
     "ma": 0,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers382",
@@ -3525,7 +3818,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers383",
@@ -3537,7 +3831,8 @@
     "ma": 500,
     "gpf": 2500,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers384",
@@ -3549,7 +3844,8 @@
     "ma": 0,
     "gpf": 2000,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 6800
   },
   {
     "id": "teachers396-3fc4378f",
@@ -3561,7 +3857,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers399-29d8e169",
@@ -3573,7 +3870,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers395-e928c8e3",
@@ -3585,7 +3883,8 @@
     "ma": 0,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers397-a816599d",
@@ -3597,7 +3896,8 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   },
   {
     "id": "teachers398-0d5c8f45",
@@ -3609,6 +3909,7 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0
+    "arrear": 0,
+    "bonus": 0
   }
 ]
