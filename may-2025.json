@@ -3610,5 +3610,17 @@
     "gpf": 0,
     "gsli": 0,
     "arrear": 0
+  },
+  {
+    "id": "teachers399-5cc82fa0",
+    "tname": "SUCHARITA PANDIT",
+    "basic": 24700,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 0,
+    "gsli": 0,
+    "arrear": 0
   }
 ]
