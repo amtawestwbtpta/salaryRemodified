@@ -134,7 +134,7 @@
   {
     "id": "teachers112",
     "tname": "RAJU KOLEY",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -314,7 +314,7 @@
   {
     "id": "teachers128",
     "tname": "NETAI DAS",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -686,7 +686,7 @@
   {
     "id": "teachers157",
     "tname": "PULAK MITRA",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -902,7 +902,7 @@
   {
     "id": "teachers173",
     "tname": "SUSHANTA BACHAR",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -914,7 +914,7 @@
   {
     "id": "teachers174",
     "tname": "MALAYASISH BACHHAR",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -1010,7 +1010,7 @@
   {
     "id": "teachers182",
     "tname": "SIDDHARTHA BISWAS",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -1536,18 +1536,6 @@
     "arrear": 0
   },
   {
-    "id": "teachers225",
-    "tname": "MRIDULA CHAKRABARTI",
-    "basic": 64300,
-    "addl": 400,
-    "daPercent": 0.18,
-    "hraPercent": 0.12,
-    "ma": 500,
-    "gpf": 15000,
-    "gsli": 0,
-    "arrear": 0
-  },
-  {
     "id": "teachers226",
     "tname": "SK ASIF MURSHED",
     "basic": 33500,
@@ -1742,7 +1730,7 @@
   {
     "id": "teachers241",
     "tname": "KUMARESH SARKAR",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -1754,7 +1742,7 @@
   {
     "id": "teachers242",
     "tname": "MILAN BISWAS",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -2941,7 +2929,7 @@
   },
   {
     "id": "teachers388-9d83883f",
-    "tname": "AVIJIT KARAR",
+    "tname": "AVIJIT KANRAR",
     "basic": 48700,
     "addl": 400,
     "daPercent": 0.18,
@@ -3086,7 +3074,7 @@
   {
     "id": "teachers347",
     "tname": "MINTU MALIK",
-    "basic": 0,
+    "basic": 34500,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -3098,7 +3086,7 @@
   {
     "id": "teachers348",
     "tname": "PAROMITA ROY",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -3278,7 +3266,7 @@
   {
     "id": "teachers363",
     "tname": "PRIYANKA ROY",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -3386,7 +3374,7 @@
   {
     "id": "teachers371",
     "tname": "SARAJIT BISWAS",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
@@ -3434,7 +3422,7 @@
   {
     "id": "teachers375",
     "tname": "MADHUMITA DHAL",
-    "basic": 27000,
+    "basic": 31600,
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
