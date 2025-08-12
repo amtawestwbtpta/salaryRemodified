@@ -3574,5 +3574,18 @@
     "gpf": 0,
     "gsli": 0,
     "arrear": 0
+  },
+  {
+    "id": "teachers399-6d7dd594",
+    "tname": "FALGUNI MALIK",
+    "basic": 0,
+    "addl": 0,
+    "daPercent": 0.18,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 0,
+    "gsli": 0,
+    "arrear": 0,
+    "bonus": 0
   }
 ]
