@@ -2214,7 +2214,7 @@
     "addl": 0,
     "daPercent": 0.18,
     "hraPercent": 0.12,
-    "ma": 0,
+    "ma": 500,
     "gpf": 0,
     "gsli": 0,
     "arrear": 0
