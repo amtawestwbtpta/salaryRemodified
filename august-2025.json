@@ -79,7 +79,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -307,7 +307,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 10000,
+    "gpf": 15000,
     "gsli": 0,
     "arrear": 0
   },
@@ -319,7 +319,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -391,7 +391,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -559,7 +559,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 5000,
+    "gpf": 6000,
     "gsli": 0,
     "arrear": 0
   },
@@ -595,7 +595,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -619,7 +619,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3500,
     "gsli": 0,
     "arrear": 0
   },
@@ -631,7 +631,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 2000,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -703,7 +703,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 4000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -799,7 +799,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 4000,
+    "gpf": 7000,
     "gsli": 0,
     "arrear": 0
   },
@@ -883,7 +883,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -991,7 +991,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1459,7 +1459,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 2500,
     "gsli": 0,
     "arrear": 0
   },
@@ -1603,7 +1603,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1639,7 +1639,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1747,7 +1747,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 7000,
+    "gpf": 8000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1759,7 +1759,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 8000,
+    "gpf": 9000,
     "gsli": 0,
     "arrear": 0
   },
@@ -1831,7 +1831,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2000,
+    "gpf": 4000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2227,7 +2227,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 10000,
+    "gpf": 13000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2239,7 +2239,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5500,
     "gsli": 0,
     "arrear": 0
   },
@@ -2263,7 +2263,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2287,7 +2287,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2347,7 +2347,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 7000,
+    "gpf": 10000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2395,7 +2395,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2407,7 +2407,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 6000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2515,7 +2515,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2695,7 +2695,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 8000,
+    "gpf": 10000,
     "gsli": 60,
     "arrear": 0
   },
@@ -2899,7 +2899,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2911,7 +2911,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 4000,
+    "gpf": 6000,
     "gsli": 0,
     "arrear": 0
   },
@@ -2923,7 +2923,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3055,7 +3055,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 3000,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3139,7 +3139,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 5000,
+    "gpf": 8000,
     "gsli": 60,
     "arrear": 0
   },
@@ -3223,7 +3223,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 2500,
+    "gpf": 3000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3403,7 +3403,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 7000,
+    "gpf": 8000,
     "gsli": 60,
     "arrear": 0
   },
@@ -3427,7 +3427,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 10000,
+    "gpf": 12000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3571,7 +3571,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 0,
+    "gpf": 2000,
     "gsli": 0,
     "arrear": 0
   },
@@ -3585,7 +3585,6 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0,
-    "bonus": 0
+    "arrear": 0
   }
 ]
