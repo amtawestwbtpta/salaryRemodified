@@ -3163,7 +3163,7 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 5000,
+    "gpf": 8000,
     "gsli": 60,
     "arrear": 0
   },
@@ -3609,7 +3609,6 @@
     "ma": 500,
     "gpf": 0,
     "gsli": 0,
-    "arrear": 0,
-    "bonus": 0
+    "arrear": 0
   }
 ]
