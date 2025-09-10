@@ -293,7 +293,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 5000,
     "gsli": 0,
     "arrear": 0,
     "bonus": 0
@@ -3062,7 +3062,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 0,
+    "gpf": 3500,
     "gsli": 0,
     "arrear": 0,
     "bonus": 0
@@ -3426,7 +3426,7 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 0,
+    "gpf": 12000,
     "gsli": 0,
     "arrear": 0,
     "bonus": 0
@@ -3491,8 +3491,8 @@
     "daPercent": 0.14,
     "hraPercent": 0.12,
     "ma": 0,
-    "gpf": 0,
-    "gsli": 0,
+    "gpf": 7000,
+    "gsli": 60,
     "arrear": 0,
     "bonus": 0
   },

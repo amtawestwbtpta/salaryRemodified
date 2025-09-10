@@ -271,8 +271,8 @@
     "daPercent": 0.18,
     "hraPercent": 0.12,
     "ma": 500,
-    "gpf": 5000,
-    "gsli": 60,
+    "gpf": 0,
+    "gsli": 0,
     "arrear": 0
   },
   {
