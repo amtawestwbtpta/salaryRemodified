@@ -3924,5 +3924,18 @@
     "gsli": 0,
     "arrear": 0,
     "bonus": 0
+  },
+  {
+    "id": "teachers399-20dae0ff",
+    "tname": "BIPLAB MAITY",
+    "basic": 33500,
+    "addl": 0,
+    "daPercent": 0.14,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 3000,
+    "gsli": 0,
+    "arrear": 0,
+    "bonus": 6800
   }
 ]
