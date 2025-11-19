@@ -3937,5 +3937,18 @@
     "gsli": 0,
     "arrear": 0,
     "bonus": 6800
+  },
+  {
+    "id": "teachers399-4fe1a07f",
+    "tname": "SANCHITA DAS",
+    "basic": 31600,
+    "addl": 0,
+    "daPercent": 0.14,
+    "hraPercent": 0.12,
+    "ma": 500,
+    "gpf": 2000,
+    "gsli": 0,
+    "arrear": 0,
+    "bonus": 6800
   }
 ]
