@@ -3963,5 +3963,18 @@
     "id": "teachers398-57de8c79",
     "ma": 500,
     "tname": "NITI PAL"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 31600,
+    "bonus": 6800,
+    "daPercent": 0.14,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers396-5d500120",
+    "ma": 500,
+    "tname": "BANASHRI KARMAKAR"
   }
 ]
