@@ -3634,5 +3634,77 @@
     "id": "teachers396-5d500120",
     "ma": 500,
     "tname": "BANASHRI KARMAKAR"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 28900,
+    "daPercent": 0.18,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers398-61b934ff",
+    "ma": 0,
+    "tname": "RAMA SADHUKHAN"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 28900,
+    "daPercent": 0.18,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers399-cabf8a67",
+    "ma": 0,
+    "tname": "KINKAR GHORUI"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 28900,
+    "daPercent": 0.18,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers396-1d5636cf",
+    "ma": 0,
+    "tname": "SURAJIT HAZRA"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 28900,
+    "daPercent": 0.18,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers395-d7f5a4c5",
+    "ma": 500,
+    "tname": "KALYAN SUNDAR MANNA"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 28900,
+    "daPercent": 0.18,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers397-a3dd0850",
+    "ma": 0,
+    "tname": "SWARUP MALIK"
+  },
+  {
+    "addl": 0,
+    "arrear": 0,
+    "basic": 28900,
+    "daPercent": 0.18,
+    "gpf": 2000,
+    "gsli": 0,
+    "hraPercent": 0.12,
+    "id": "teachers400-cb2cffb0",
+    "ma": 500,
+    "tname": "SUDIP KUMAR SAHA"
   }
 ]
