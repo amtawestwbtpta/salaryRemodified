@@ -2,6 +2,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 528900,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 452500,
     "association": "WBTPTA",
@@ -13,6 +14,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 507857,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 431507,
     "association": "WBTPTA",
@@ -24,6 +26,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 786174,
+    "Gross80D": 50000,
     "NetTax": 44195,
     "TaxableIncome": 649974,
     "association": "WBTPTA",
@@ -35,6 +38,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 429843,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 354043,
     "association": "WBTPTA",
@@ -46,6 +50,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582844,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 482444,
     "association": "ABPTA",
@@ -57,6 +62,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530205,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453805,
     "association": "WBTPTA",
@@ -68,6 +74,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 792926,
+    "Gross80D": 0,
     "NetTax": 50549,
     "TaxableIncome": 680526,
     "association": "WBPTA",
@@ -79,6 +86,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578047,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 465647,
     "association": "WBTPTA",
@@ -90,6 +98,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530208,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453808,
     "association": "WBTPTA",
@@ -101,6 +110,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487049,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410849,
     "association": "WBTPTA",
@@ -112,6 +122,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 786930,
+    "Gross80D": 0,
     "NetTax": 54294,
     "TaxableIncome": 698530,
     "association": "WBTPTA",
@@ -123,6 +134,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530211,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453811,
     "association": "WBTPTA",
@@ -134,6 +146,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487052,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410852,
     "association": "WBTPTA",
@@ -145,6 +158,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530213,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453813,
     "association": "WBTPTA",
@@ -156,6 +170,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530214,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453814,
     "association": "WBTPTA",
@@ -167,6 +182,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487055,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410855,
     "association": "WBTPTA",
@@ -178,6 +194,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 829736,
+    "Gross80D": 0,
     "NetTax": 61949,
     "TaxableIncome": 735336,
     "association": "ABPTA",
@@ -189,6 +206,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865737,
+    "Gross80D": 0,
     "NetTax": 65544,
     "TaxableIncome": 752617,
     "association": "WBTPTA",
@@ -200,6 +218,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561418,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 449018,
     "association": "WBTPTA",
@@ -211,6 +230,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487059,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410859,
     "association": "WBTPTA",
@@ -222,6 +242,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 813100,
+    "Gross80D": 0,
     "NetTax": 57242,
     "TaxableIncome": 712700,
     "association": "WBTPTA",
@@ -233,6 +254,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630581,
+    "Gross80D": 0,
     "NetTax": 23021,
     "TaxableIncome": 548181,
     "association": "ABPTA",
@@ -244,6 +266,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487062,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410862,
     "association": "WBTPTA",
@@ -255,6 +278,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 398623,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 322823,
     "association": "WBTPTA",
@@ -266,6 +290,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 450864,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 395064,
     "association": "WBTPTA",
@@ -277,6 +302,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865745,
+    "Gross80D": 0,
     "NetTax": 78026,
     "TaxableIncome": 812625,
     "association": "ABPTA",
@@ -288,6 +314,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578066,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489666,
     "association": "WBTPTA",
@@ -299,6 +326,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578067,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495667,
     "association": "WBTPTA",
@@ -310,6 +338,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 450868,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 395068,
     "association": "WBTPTA",
@@ -321,6 +350,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865749,
+    "Gross80D": 0,
     "NetTax": 46977,
     "TaxableIncome": 663349,
     "association": "ABPTA",
@@ -332,6 +362,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530230,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 429830,
     "association": "ABPTA",
@@ -343,6 +374,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865751,
+    "Gross80D": 0,
     "NetTax": 68043,
     "TaxableIncome": 764631,
     "association": "ABPTA",
@@ -354,6 +386,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487072,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410872,
     "association": "WBTPTA",
@@ -365,6 +398,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 859753,
+    "Gross80D": 0,
     "NetTax": 66796,
     "TaxableIncome": 758633,
     "association": "ABPTA",
@@ -376,6 +410,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578074,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489674,
     "association": "ABPTA",
@@ -387,6 +422,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524235,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 447835,
     "association": "ABPTA",
@@ -398,6 +434,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487076,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 374876,
     "association": "ABPTA",
@@ -409,6 +446,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865757,
+    "Gross80D": 0,
     "NetTax": 53068,
     "TaxableIncome": 692637,
     "association": "ABPTA",
@@ -420,6 +458,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 423878,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 348078,
     "association": "WBTPTA",
@@ -431,6 +470,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487079,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410879,
     "association": "WBTPTA",
@@ -442,6 +482,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 926080,
+    "Gross80D": 0,
     "NetTax": 78245,
     "TaxableIncome": 813680,
     "association": "WBPTA",
@@ -453,6 +494,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487081,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410881,
     "association": "WBTPTA",
@@ -464,6 +506,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 411402,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 359602,
     "association": "WBTPTA",
@@ -475,6 +518,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 792963,
+    "Gross80D": 0,
     "NetTax": 55400,
     "TaxableIncome": 703843,
     "association": "ABPTA",
@@ -486,6 +530,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555444,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473044,
     "association": "ABPTA",
@@ -497,6 +542,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 515165,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 438765,
     "association": "WBTPTA",
@@ -508,6 +554,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 834806,
+    "Gross80D": 0,
     "NetTax": 54268,
     "TaxableIncome": 698406,
     "association": "WBTPTA",
@@ -519,6 +566,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578087,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 465687,
     "association": "WBTPTA",
@@ -530,6 +578,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578088,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 429688,
     "association": "WBTPTA",
@@ -541,6 +590,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578089,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 465689,
     "association": "WBTPTA",
@@ -552,6 +602,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 816370,
+    "Gross80D": 0,
     "NetTax": 52930,
     "TaxableIncome": 691970,
     "association": "WBTPTA",
@@ -563,6 +614,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578091,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453691,
     "association": "WBTPTA",
@@ -574,6 +626,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572092,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489692,
     "association": "WBTPTA",
@@ -585,6 +638,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582893,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 470493,
     "association": "WBTPTA",
@@ -596,6 +650,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578094,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495694,
     "association": "WBTPTA",
@@ -607,6 +662,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561455,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 467055,
     "association": "ABPTA",
@@ -618,6 +674,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524256,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 435856,
     "association": "WBTPTA",
@@ -629,6 +686,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561457,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479057,
     "association": "WBTPTA",
@@ -640,6 +698,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 635418,
+    "Gross80D": 0,
     "NetTax": 22780,
     "TaxableIncome": 547018,
     "association": "ABPTA",
@@ -651,6 +710,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561459,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479059,
     "association": "WBTPTA",
@@ -662,6 +722,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561460,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479060,
     "association": "WBTPTA",
@@ -673,6 +734,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530261,
+    "Gross80D": 50000,
     "NetTax": 0,
     "TaxableIncome": 406061,
     "association": "WBTPTA",
@@ -684,6 +746,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582902,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 470502,
     "association": "WBTPTA",
@@ -695,6 +758,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578103,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495703,
     "association": "ABPTA",
@@ -706,6 +770,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555464,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473064,
     "association": "WBTPTA",
@@ -717,6 +782,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572105,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489705,
     "association": "ABPTA",
@@ -728,6 +794,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530266,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453866,
     "association": "WBTPTA",
@@ -739,6 +806,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 515187,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 438787,
     "association": "NOT WBTPTA",
@@ -750,6 +818,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487108,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410908,
     "association": "WBTPTA",
@@ -761,6 +830,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865789,
+    "Gross80D": 0,
     "NetTax": 53075,
     "TaxableIncome": 692669,
     "association": "WBTPTA",
@@ -772,6 +842,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630630,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 494230,
     "association": "ABPTA",
@@ -783,6 +854,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865791,
+    "Gross80D": 0,
     "NetTax": 68201,
     "TaxableIncome": 765391,
     "association": "ABPTA",
@@ -794,6 +866,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578112,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495712,
     "association": "WBTPTA",
@@ -805,6 +878,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578113,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495713,
     "association": "WBTPTA",
@@ -816,6 +890,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 840834,
+    "Gross80D": 0,
     "NetTax": 58018,
     "TaxableIncome": 716434,
     "association": "ABPTA",
@@ -827,6 +902,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782195,
+    "Gross80D": 0,
     "NetTax": 53309,
     "TaxableIncome": 693795,
     "association": "WBTPTA",
@@ -838,6 +914,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487116,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410916,
     "association": "WBTPTA",
@@ -849,6 +926,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582917,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 470517,
     "association": "WBPTA",
@@ -860,6 +938,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578118,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495718,
     "association": "WBTPTA",
@@ -871,6 +950,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530279,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453879,
     "association": "WBTPTA",
@@ -882,6 +962,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530280,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453880,
     "association": "WBTPTA",
@@ -893,6 +974,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 481121,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 405321,
     "association": "WBTPTA",
@@ -904,6 +986,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582922,
+    "Gross80D": 0,
     "NetTax": 13108,
     "TaxableIncome": 500522,
     "association": "WBTPTA",
@@ -915,6 +998,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555483,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473083,
     "association": "WBTPTA",
@@ -926,6 +1010,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 566284,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477884,
     "association": "WBTPTA",
@@ -937,6 +1022,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 501165,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 424765,
     "association": "WBTPTA",
@@ -948,6 +1034,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 816406,
+    "Gross80D": 0,
     "NetTax": 55433,
     "TaxableIncome": 704006,
     "association": "WBPTA",
@@ -959,6 +1046,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572127,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 483727,
     "association": "WBTPTA",
@@ -970,6 +1058,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530288,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453888,
     "association": "WBTPTA",
@@ -981,6 +1070,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 926129,
+    "Gross80D": 0,
     "NetTax": 78256,
     "TaxableIncome": 813729,
     "association": "WBTPTA",
@@ -992,6 +1082,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 788210,
+    "Gross80D": 0,
     "NetTax": 54411,
     "TaxableIncome": 699090,
     "association": "WBTPTA",
@@ -1003,6 +1094,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 595291,
+    "Gross80D": 0,
     "NetTax": 14433,
     "TaxableIncome": 506891,
     "association": "WBTPTA",
@@ -1014,6 +1106,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578132,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489732,
     "association": "WBTPTA",
@@ -1025,6 +1118,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487133,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410933,
     "association": "WBTPTA",
@@ -1036,6 +1130,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578134,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495734,
     "association": "WBTPTA",
@@ -1047,6 +1142,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 429935,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 354135,
     "association": "WBTPTA",
@@ -1058,6 +1154,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487136,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410936,
     "association": "WBTPTA",
@@ -1069,6 +1166,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 450937,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 395137,
     "association": "WBTPTA",
@@ -1080,6 +1178,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582938,
+    "Gross80D": 0,
     "NetTax": 13112,
     "TaxableIncome": 500538,
     "association": "WBTPTA",
@@ -1091,6 +1190,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578139,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489739,
     "association": "WBTPTA",
@@ -1102,6 +1202,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 482460,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 406260,
     "association": "WBTPTA",
@@ -1113,6 +1214,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530301,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453901,
     "association": "WBTPTA",
@@ -1124,6 +1226,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561502,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479102,
     "association": "WBTPTA",
@@ -1135,6 +1238,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 840863,
+    "Gross80D": 0,
     "NetTax": 60371,
     "TaxableIncome": 727743,
     "association": "WBTPTA",
@@ -1146,6 +1250,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530304,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453904,
     "association": "WBTPTA",
@@ -1157,6 +1262,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 429945,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 354145,
     "association": "WBTPTA",
@@ -1168,6 +1274,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582946,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 482546,
     "association": "WBTPTA",
@@ -1179,6 +1286,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578147,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477747,
     "association": "WBTPTA",
@@ -1190,6 +1298,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530308,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453908,
     "association": "WBTPTA",
@@ -1201,6 +1310,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487149,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410949,
     "association": "WBTPTA",
@@ -1212,6 +1322,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 566310,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 483910,
     "association": "WBTPTA",
@@ -1223,6 +1334,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561511,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479111,
     "association": "WBTPTA",
@@ -1234,6 +1346,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524312,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 447912,
     "association": "WBTPTA",
@@ -1245,6 +1358,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865833,
+    "Gross80D": 0,
     "NetTax": 53085,
     "TaxableIncome": 692713,
     "association": "ABPTA",
@@ -1256,6 +1370,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630674,
+    "Gross80D": 0,
     "NetTax": 16801,
     "TaxableIncome": 518274,
     "association": "ABPTA",
@@ -1267,6 +1382,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 519635,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 443235,
     "association": "WBTPTA",
@@ -1278,6 +1394,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 888596,
+    "Gross80D": 0,
     "NetTax": 70449,
     "TaxableIncome": 776196,
     "association": "ABPTA",
@@ -1289,6 +1406,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555517,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473117,
     "association": "WBTPTA",
@@ -1300,6 +1418,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865838,
+    "Gross80D": 0,
     "NetTax": 65716,
     "TaxableIncome": 753438,
     "association": "ABPTA",
@@ -1311,6 +1430,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782239,
+    "Gross80D": 0,
     "NetTax": 45831,
     "TaxableIncome": 657839,
     "association": "WBPTA",
@@ -1322,6 +1442,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572160,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 459760,
     "association": "WBTPTA",
@@ -1333,6 +1454,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578161,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 465761,
     "association": "WBTPTA",
@@ -1344,6 +1466,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524322,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 447922,
     "association": "WBTPTA",
@@ -1355,6 +1478,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530323,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453923,
     "association": "WBTPTA",
@@ -1366,6 +1490,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530324,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 453924,
     "association": "WBTPTA",
@@ -1377,6 +1502,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793045,
+    "Gross80D": 0,
     "NetTax": 55416,
     "TaxableIncome": 703925,
     "association": "WBTPTA",
@@ -1388,6 +1514,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530326,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453926,
     "association": "WBTPTA",
@@ -1399,6 +1526,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561527,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479127,
     "association": "WBTPTA",
@@ -1410,6 +1538,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 560328,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477928,
     "association": "WBTPTA",
@@ -1421,6 +1550,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524329,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 447929,
     "association": "WBTPTA",
@@ -1432,6 +1562,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487170,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410970,
     "association": "WBTPTA",
@@ -1443,6 +1574,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865851,
+    "Gross80D": 0,
     "NetTax": 65718,
     "TaxableIncome": 753451,
     "association": "ABPTA",
@@ -1454,6 +1586,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530332,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 441932,
     "association": "WBTPTA",
@@ -1465,6 +1598,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 392733,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 316933,
     "association": "WBTPTA",
@@ -1476,6 +1610,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561534,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479134,
     "association": "WBTPTA",
@@ -1487,6 +1622,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 398735,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 346935,
     "association": "WBTPTA",
@@ -1498,6 +1634,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 600136,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 487736,
     "association": "ABPTA",
@@ -1509,6 +1646,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487177,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 410977,
     "association": "WBTPTA",
@@ -1520,6 +1658,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 398738,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 322938,
     "association": "WBTPTA",
@@ -1531,6 +1670,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793059,
+    "Gross80D": 50000,
     "NetTax": 40485,
     "TaxableIncome": 632139,
     "association": "WBTPTA",
@@ -1542,6 +1682,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578180,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489780,
     "association": "WBTPTA",
@@ -1553,6 +1694,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555541,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 467141,
     "association": "WBTPTA",
@@ -1564,6 +1706,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487182,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 386982,
     "association": "WBTPTA",
@@ -1575,6 +1718,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 481183,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 405333,
     "association": "WBTPTA",
@@ -1586,6 +1730,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 582984,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 446584,
     "association": "WBTPTA",
@@ -1597,6 +1742,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 515265,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 414865,
     "association": "WBTPTA",
@@ -1608,6 +1754,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 481186,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 405336,
     "association": "WBTPTA",
@@ -1619,6 +1766,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 840907,
+    "Gross80D": 0,
     "NetTax": 55537,
     "TaxableIncome": 704507,
     "association": "WBTPTA",
@@ -1630,6 +1778,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 624708,
+    "Gross80D": 50000,
     "NetTax": 0,
     "TaxableIncome": 494508,
     "association": "WBTPTA",
@@ -1641,6 +1790,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630709,
+    "Gross80D": 0,
     "NetTax": 23048,
     "TaxableIncome": 548309,
     "association": "WBTPTA",
@@ -1652,6 +1802,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 787070,
+    "Gross80D": 0,
     "NetTax": 54174,
     "TaxableIncome": 697950,
     "association": "ABPTA",
@@ -1663,6 +1814,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530351,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453951,
     "association": "WBTPTA",
@@ -1674,6 +1826,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530352,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453952,
     "association": "WBTPTA",
@@ -1685,6 +1838,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 481193,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 405343,
     "association": "WBTPTA",
@@ -1696,6 +1850,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 816474,
+    "Gross80D": 0,
     "NetTax": 47960,
     "TaxableIncome": 668074,
     "association": "WBTPTA",
@@ -1707,6 +1862,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782275,
+    "Gross80D": 0,
     "NetTax": 38350,
     "TaxableIncome": 621875,
     "association": "WBTPTA",
@@ -1718,6 +1874,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 624716,
+    "Gross80D": 0,
     "NetTax": 20554,
     "TaxableIncome": 536316,
     "association": "WBTPTA",
@@ -1729,6 +1886,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561557,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473157,
     "association": "WBTPTA",
@@ -1740,6 +1898,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793078,
+    "Gross80D": 0,
     "NetTax": 42944,
     "TaxableIncome": 643958,
     "association": "ABPTA",
@@ -1751,6 +1910,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578199,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 465799,
     "association": "WBTPTA",
@@ -1762,6 +1922,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572200,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 447800,
     "association": "WBTPTA",
@@ -1773,6 +1934,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487201,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 387001,
     "association": "WBTPTA",
@@ -1784,6 +1946,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487202,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411002,
     "association": "WBTPTA",
@@ -1795,6 +1958,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865883,
+    "Gross80D": 0,
     "NetTax": 63079,
     "TaxableIncome": 740763,
     "association": "ABPTA",
@@ -1806,6 +1970,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578204,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477804,
     "association": "WBTPTA",
@@ -1817,6 +1982,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578205,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477805,
     "association": "WBTPTA",
@@ -1828,6 +1994,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578206,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477806,
     "association": "WBTPTA",
@@ -1839,6 +2006,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578207,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477807,
     "association": "WBTPTA",
@@ -1850,6 +2018,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561568,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473168,
     "association": "WBTPTA",
@@ -1861,6 +2030,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 457009,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 401209,
     "association": "WBTPTA",
@@ -1872,6 +2042,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 787090,
+    "Gross80D": 0,
     "NetTax": 54328,
     "TaxableIncome": 698690,
     "association": "WBTPTA",
@@ -1883,6 +2054,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572211,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 483811,
     "association": "WBTPTA",
@@ -1894,6 +2066,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578212,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489812,
     "association": "WBTPTA",
@@ -1905,6 +2078,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 6800,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": -43200,
     "association": "WBTPTA",
@@ -1916,6 +2090,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530374,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453974,
     "association": "WBTPTA",
@@ -1927,6 +2102,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572215,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 483815,
     "association": "WBTPTA",
@@ -1938,6 +2114,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 566376,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 483976,
     "association": "WBTPTA",
@@ -1949,6 +2126,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 836137,
+    "Gross80D": 0,
     "NetTax": 40817,
     "TaxableIncome": 633737,
     "association": "WBTPTA",
@@ -1960,6 +2138,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561578,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479178,
     "association": "WBTPTA",
@@ -1971,6 +2150,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561579,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479179,
     "association": "WBTPTA",
@@ -1982,6 +2162,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 566380,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 477980,
     "association": "WBTPTA",
@@ -1993,6 +2174,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578221,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489821,
     "association": "WBTPTA",
@@ -2004,6 +2186,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561582,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473182,
     "association": "WBTPTA",
@@ -2015,6 +2198,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630743,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 494343,
     "association": "ABPTA",
@@ -2026,6 +2210,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 430024,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 354224,
     "association": "WBTPTA",
@@ -2037,6 +2222,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487225,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411025,
     "association": "WBTPTA",
@@ -2048,6 +2234,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865906,
+    "Gross80D": 0,
     "NetTax": 69473,
     "TaxableIncome": 771506,
     "association": "WBTPTA",
@@ -2059,6 +2246,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782307,
+    "Gross80D": 0,
     "NetTax": 53332,
     "TaxableIncome": 693907,
     "association": "WBTPTA",
@@ -2070,6 +2258,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 788308,
+    "Gross80D": 0,
     "NetTax": 54581,
     "TaxableIncome": 699908,
     "association": "WBTPTA",
@@ -2081,6 +2270,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578229,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495829,
     "association": "WBTPTA",
@@ -2092,6 +2282,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555590,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473190,
     "association": "WBTPTA",
@@ -2103,6 +2294,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487231,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411031,
     "association": "WBTPTA",
@@ -2114,6 +2306,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487232,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 435032,
     "association": "WBTPTA",
@@ -2125,6 +2318,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 787113,
+    "Gross80D": 0,
     "NetTax": 51837,
     "TaxableIncome": 686713,
     "association": "WBTPTA",
@@ -2136,6 +2330,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561594,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473194,
     "association": "WBTPTA",
@@ -2147,6 +2342,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 476555,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 364755,
     "association": "WBTPTA",
@@ -2158,6 +2354,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 981876,
+    "Gross80D": 50000,
     "NetTax": 61188,
     "TaxableIncome": 731676,
     "association": "WBTPTA",
@@ -2169,6 +2366,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578237,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 459837,
     "association": "WBTPTA",
@@ -2180,6 +2378,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 836158,
+    "Gross80D": 0,
     "NetTax": 59542,
     "TaxableIncome": 723758,
     "association": "WBTPTA",
@@ -2191,6 +2390,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561599,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 449199,
     "association": "WBTPTA",
@@ -2202,6 +2402,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561600,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479200,
     "association": "WBTPTA",
@@ -2213,6 +2414,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561601,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473201,
     "association": "WBTPTA",
@@ -2224,6 +2426,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630762,
+    "Gross80D": 50000,
     "NetTax": 0,
     "TaxableIncome": 470562,
     "association": "WBTPTA",
@@ -2235,6 +2438,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487243,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 411043,
     "association": "WBTPTA",
@@ -2246,6 +2450,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 451044,
+    "Gross80D": 0,
     "NetTax": -2,
     "TaxableIncome": 395244,
     "association": "WBTPTA",
@@ -2257,6 +2462,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 566405,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 478005,
     "association": "WBTPTA",
@@ -2268,6 +2474,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530406,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454006,
     "association": "WBTPTA",
@@ -2279,6 +2486,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 392807,
+    "Gross80D": 50000,
     "NetTax": 0,
     "TaxableIncome": 268657,
     "association": "WBTPTA",
@@ -2290,6 +2498,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865928,
+    "Gross80D": 0,
     "NetTax": 53254,
     "TaxableIncome": 693528,
     "association": "ABPTA",
@@ -2301,6 +2510,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 788329,
+    "Gross80D": 0,
     "NetTax": 49593,
     "TaxableIncome": 675929,
     "association": "WBTPTA",
@@ -2312,6 +2522,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561610,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473210,
     "association": "WBTPTA",
@@ -2323,6 +2534,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530411,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454011,
     "association": "WBTPTA",
@@ -2334,6 +2546,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793132,
+    "Gross80D": 0,
     "NetTax": 50592,
     "TaxableIncome": 680732,
     "association": "WBPTA",
@@ -2345,6 +2558,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 788333,
+    "Gross80D": 0,
     "NetTax": 47098,
     "TaxableIncome": 663933,
     "association": "WBTPTA",
@@ -2356,6 +2570,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530414,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454014,
     "association": "WBTPTA",
@@ -2367,6 +2582,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 816535,
+    "Gross80D": 0,
     "NetTax": 57806,
     "TaxableIncome": 715415,
     "association": "ABPTA",
@@ -2378,6 +2594,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578256,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495856,
     "association": "WBTPTA",
@@ -2389,6 +2606,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578257,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495857,
     "association": "WBTPTA",
@@ -2400,6 +2618,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555618,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473218,
     "association": "WBTPTA",
@@ -2411,6 +2630,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561619,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 461219,
     "association": "WBTPTA",
@@ -2422,6 +2642,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 417580,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 341780,
     "association": "WBTPTA",
@@ -2433,6 +2654,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865941,
+    "Gross80D": 0,
     "NetTax": 53256,
     "TaxableIncome": 693541,
     "association": "ABPTA",
@@ -2444,6 +2666,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782342,
+    "Gross80D": 0,
     "NetTax": 48348,
     "TaxableIncome": 669942,
     "association": "ABPTA",
@@ -2455,6 +2678,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 830183,
+    "Gross80D": 0,
     "NetTax": 60646,
     "TaxableIncome": 729063,
     "association": "ABPTA",
@@ -2466,6 +2690,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555624,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 443224,
     "association": "WBTPTA",
@@ -2477,6 +2702,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 819545,
+    "Gross80D": 0,
     "NetTax": 43606,
     "TaxableIncome": 647145,
     "association": "WBTPTA",
@@ -2488,6 +2714,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 840986,
+    "Gross80D": 0,
     "NetTax": 60546,
     "TaxableIncome": 728586,
     "association": "WBTPTA",
@@ -2499,6 +2726,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578267,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 465867,
     "association": "WBTPTA",
@@ -2510,6 +2738,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487268,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411068,
     "association": "WBTPTA",
@@ -2521,6 +2750,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 594229,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 481829,
     "association": "WBTPTA",
@@ -2532,6 +2762,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578270,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489870,
     "association": "WBTPTA",
@@ -2543,6 +2774,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530431,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454031,
     "association": "WBTPTA",
@@ -2554,6 +2786,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 583072,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 494672,
     "association": "WBTPTA",
@@ -2565,6 +2798,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578273,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489873,
     "association": "WBTPTA",
@@ -2576,6 +2810,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 583074,
+    "Gross80D": 0,
     "NetTax": 13140,
     "TaxableIncome": 500674,
     "association": "WBPTA",
@@ -2587,6 +2822,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561635,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479235,
     "association": "WBTPTA",
@@ -2598,6 +2834,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487276,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411076,
     "association": "WBTPTA",
@@ -2609,6 +2846,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782357,
+    "Gross80D": 0,
     "NetTax": 35721,
     "TaxableIncome": 609237,
     "association": "WBTPTA",
@@ -2620,6 +2858,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578278,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495878,
     "association": "WBTPTA",
@@ -2631,6 +2870,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487279,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411079,
     "association": "WBTPTA",
@@ -2642,6 +2882,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 841000,
+    "Gross80D": 0,
     "NetTax": 58053,
     "TaxableIncome": 716600,
     "association": "WBTPTA",
@@ -2653,6 +2894,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 782361,
+    "Gross80D": 0,
     "NetTax": 45856,
     "TaxableIncome": 657961,
     "association": "WBTPTA",
@@ -2664,6 +2906,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561642,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479242,
     "association": "WBTPTA",
@@ -2675,6 +2918,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561643,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479243,
     "association": "WBTPTA",
@@ -2686,6 +2930,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630804,
+    "Gross80D": 0,
     "NetTax": 21820,
     "TaxableIncome": 542404,
     "association": "WBTPTA",
@@ -2697,6 +2942,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 920285,
+    "Gross80D": 0,
     "NetTax": 89520,
     "TaxableIncome": 867885,
     "association": "WBTPTA",
@@ -2708,6 +2954,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 501326,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 424926,
     "association": "WBTPTA",
@@ -2719,6 +2966,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 481287,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 405437,
     "association": "WBTPTA",
@@ -2730,6 +2978,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487288,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411088,
     "association": "WBTPTA",
@@ -2741,6 +2990,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 457089,
+    "Gross80D": 0,
     "NetTax": -1,
     "TaxableIncome": 401289,
     "association": "WBTPTA",
@@ -2752,6 +3002,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 635610,
+    "Gross80D": 0,
     "NetTax": 22820,
     "TaxableIncome": 547210,
     "association": "WBTPTA",
@@ -2763,6 +3014,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 788371,
+    "Gross80D": 0,
     "NetTax": 54594,
     "TaxableIncome": 699971,
     "association": "WBTPTA",
@@ -2774,6 +3026,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561652,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479252,
     "association": "WBTPTA",
@@ -2785,6 +3038,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561653,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479253,
     "association": "WBTPTA",
@@ -2796,6 +3050,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487294,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411094,
     "association": "WBTPTA",
@@ -2807,6 +3062,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 816575,
+    "Gross80D": 0,
     "NetTax": 55468,
     "TaxableIncome": 704175,
     "association": "WBTPTA",
@@ -2818,6 +3074,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578296,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 453896,
     "association": "WBTPTA",
@@ -2829,6 +3086,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578297,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489897,
     "association": "WBTPTA",
@@ -2840,6 +3098,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487298,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411098,
     "association": "WBTPTA",
@@ -2851,6 +3110,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 577099,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 494699,
     "association": "WBTPTA",
@@ -2862,6 +3122,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 572300,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 459900,
     "association": "WBTPTA",
@@ -2873,6 +3134,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865981,
+    "Gross80D": 0,
     "NetTax": 65745,
     "TaxableIncome": 753581,
     "association": "WBTPTA",
@@ -2884,6 +3146,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578302,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489902,
     "association": "WBTPTA",
@@ -2895,6 +3158,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487303,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411103,
     "association": "WBTPTA",
@@ -2906,6 +3170,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 583104,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 494704,
     "association": "WBTPTA",
@@ -2917,6 +3182,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524465,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 448065,
     "association": "WBTPTA",
@@ -2928,6 +3194,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530466,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454066,
     "association": "WBTPTA",
@@ -2939,6 +3206,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561667,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473267,
     "association": "WBTPTA",
@@ -2950,6 +3218,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793188,
+    "Gross80D": 0,
     "NetTax": 45463,
     "TaxableIncome": 656068,
     "association": "ABPTA",
@@ -2961,6 +3230,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524469,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 412069,
     "association": "WBTPTA",
@@ -2972,6 +3242,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487310,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411110,
     "association": "WBTPTA",
@@ -2983,6 +3254,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793191,
+    "Gross80D": 0,
     "NetTax": 52951,
     "TaxableIncome": 692071,
     "association": "WBTPTA",
@@ -2994,6 +3266,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530472,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454072,
     "association": "WBTPTA",
@@ -3005,6 +3278,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 487313,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 411113,
     "association": "WBTPTA",
@@ -3016,6 +3290,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 416314,
+    "Gross80D": 50000,
     "NetTax": 0,
     "TaxableIncome": 292164,
     "association": "ABPTA",
@@ -3027,6 +3302,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 810595,
+    "Gross80D": 0,
     "NetTax": 54075,
     "TaxableIncome": 697475,
     "association": "WBTPTA",
@@ -3038,6 +3314,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 788396,
+    "Gross80D": 0,
     "NetTax": 62087,
     "TaxableIncome": 735996,
     "association": "WBTPTA",
@@ -3049,6 +3326,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865997,
+    "Gross80D": 0,
     "NetTax": 58110,
     "TaxableIncome": 716877,
     "association": "ABPTA",
@@ -3060,6 +3338,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630838,
+    "Gross80D": 0,
     "NetTax": 16836,
     "TaxableIncome": 518438,
     "association": "ABPTA",
@@ -3071,6 +3350,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 865999,
+    "Gross80D": 0,
     "NetTax": 68245,
     "TaxableIncome": 765599,
     "association": "WBTPTA",
@@ -3082,6 +3362,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 501360,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 424960,
     "association": "WBTPTA",
@@ -3093,6 +3374,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 787201,
+    "Gross80D": 0,
     "NetTax": 61689,
     "TaxableIncome": 734081,
     "association": "WBTPTA",
@@ -3104,6 +3386,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 836242,
+    "Gross80D": 0,
     "NetTax": 59559,
     "TaxableIncome": 723842,
     "association": "ABPTA",
@@ -3115,6 +3398,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561683,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 449283,
     "association": "WBTPTA",
@@ -3126,6 +3410,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561684,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479284,
     "association": "WBTPTA",
@@ -3137,6 +3422,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524485,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 448085,
     "association": "NOT WBTPTA",
@@ -3148,6 +3434,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 449086,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 373286,
     "association": "WBTPTA",
@@ -3159,6 +3446,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 793207,
+    "Gross80D": 0,
     "NetTax": 53103,
     "TaxableIncome": 692807,
     "association": "ABPTA",
@@ -3170,6 +3458,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561688,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 479288,
     "association": "WBTPTA",
@@ -3181,6 +3470,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555689,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 443289,
     "association": "WBTPTA",
@@ -3192,6 +3482,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 481330,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 405480,
     "association": "WBTPTA",
@@ -3203,6 +3494,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 860011,
+    "Gross80D": 0,
     "NetTax": 66999,
     "TaxableIncome": 759611,
     "association": "WBTPTA",
@@ -3214,6 +3506,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578332,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 489932,
     "association": "WBTPTA",
@@ -3225,6 +3518,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578333,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495933,
     "association": "WBTPTA",
@@ -3236,6 +3530,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530494,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454094,
     "association": "WBTPTA",
@@ -3247,6 +3542,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524495,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 448095,
     "association": "WBTPTA",
@@ -3258,6 +3554,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 866016,
+    "Gross80D": 0,
     "NetTax": 53272,
     "TaxableIncome": 693616,
     "association": "ABPTA",
@@ -3269,6 +3566,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 630857,
+    "Gross80D": 0,
     "NetTax": 16839,
     "TaxableIncome": 518457,
     "association": "ABPTA",
@@ -3280,6 +3578,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530498,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454098,
     "association": "WBTPTA",
@@ -3291,6 +3590,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 860019,
+    "Gross80D": 0,
     "NetTax": 56867,
     "TaxableIncome": 710899,
     "association": "ABPTA",
@@ -3302,6 +3602,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 555700,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473300,
     "association": "WBTPTA",
@@ -3313,6 +3614,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 466501,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 390701,
     "association": "WBTPTA",
@@ -3324,6 +3626,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 810622,
+    "Gross80D": 0,
     "NetTax": 36758,
     "TaxableIncome": 614222,
     "association": "WBTPTA",
@@ -3335,6 +3638,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561703,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 473303,
     "association": "WBTPTA",
@@ -3346,6 +3650,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 561704,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 449304,
     "association": "WBTPTA",
@@ -3357,6 +3662,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 577145,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 494745,
     "association": "WBTPTA",
@@ -3368,6 +3674,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578346,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495946,
     "association": "WBTPTA",
@@ -3379,6 +3686,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 578347,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 495947,
     "association": "WBTPTA",
@@ -3390,6 +3698,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 524508,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 448108,
     "association": "WBTPTA",
@@ -3401,6 +3710,7 @@
   {
     "AddedEduCess": 0,
     "AllGross": 530509,
+    "Gross80D": 0,
     "NetTax": 0,
     "TaxableIncome": 454109,
     "association": "WBTPTA",
@@ -3412,6 +3722,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3423,6 +3734,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3434,6 +3746,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3445,6 +3758,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3456,6 +3770,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3467,6 +3782,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3478,6 +3794,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3489,6 +3806,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3500,6 +3818,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3511,6 +3830,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3522,6 +3842,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3533,6 +3854,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3544,6 +3866,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3555,6 +3878,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3566,6 +3890,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3577,6 +3902,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3588,6 +3914,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3599,6 +3926,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3610,6 +3938,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3621,6 +3950,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3632,6 +3962,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3643,6 +3974,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3654,6 +3986,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3665,6 +3998,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3676,6 +4010,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3687,6 +4022,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3698,6 +4034,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3709,6 +4046,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3720,6 +4058,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3731,6 +4070,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3742,6 +4082,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3753,6 +4094,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3764,6 +4106,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3775,6 +4118,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3786,6 +4130,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3797,6 +4142,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3808,6 +4154,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3819,6 +4166,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3830,6 +4178,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3841,6 +4190,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3852,6 +4202,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3863,6 +4214,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3874,6 +4226,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3885,6 +4238,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3896,6 +4250,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3907,6 +4262,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3918,6 +4274,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3929,6 +4286,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3940,6 +4298,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3951,6 +4310,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3962,6 +4322,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3973,6 +4334,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3984,6 +4346,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -3995,6 +4358,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4006,6 +4370,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4017,6 +4382,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4028,6 +4394,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4039,6 +4406,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4050,6 +4418,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4061,6 +4430,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4072,6 +4442,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4083,6 +4454,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4094,6 +4466,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4105,6 +4478,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4116,6 +4490,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4127,6 +4502,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4138,6 +4514,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4149,6 +4526,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4160,6 +4538,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4171,6 +4550,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4182,6 +4562,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4193,6 +4574,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4204,6 +4586,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4215,6 +4598,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4226,6 +4610,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4237,6 +4622,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4248,6 +4634,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4259,6 +4646,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4270,6 +4658,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4281,6 +4670,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4292,6 +4682,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4303,6 +4694,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4314,6 +4706,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4325,6 +4718,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4336,6 +4730,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4347,6 +4742,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4358,6 +4754,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4369,6 +4766,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4380,6 +4778,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
@@ -4391,6 +4790,7 @@
   {
     "AddedEduCess": "",
     "AllGross": "",
+    "Gross80D": "",
     "NetTax": "",
     "TaxableIncome": "",
     "association": "",
