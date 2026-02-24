@@ -2653,6 +2653,18 @@
   },
   {
     "AddedEduCess": 0,
+    "AllGross": 561619,
+    "Gross80D": 0,
+    "NetTax": 0,
+    "TaxableIncome": 479219,
+    "association": "WBTPTA",
+    "id": "teachers397-accee9b3",
+    "limit80C": 30000,
+    "school": "NOWPARA JUNIOR BASIC SCHOOL",
+    "tname": "PURBASREE SILL"
+  },
+  {
+    "AddedEduCess": 0,
     "AllGross": 865941,
     "Gross80D": 0,
     "NetTax": 53256,
@@ -3718,18 +3730,6 @@
     "limit80C": 24000,
     "school": "UTTAR SEHAGORI PRIMARY SCHOOL",
     "tname": "SANCHITA DAS"
-  },
-  {
-    "AddedEduCess": "",
-    "AllGross": "",
-    "Gross80D": "",
-    "NetTax": "",
-    "TaxableIncome": "",
-    "association": "",
-    "id": "",
-    "limit80C": "",
-    "school": "",
-    "tname": ""
   },
   {
     "AddedEduCess": "",
