@@ -195,7 +195,7 @@
     "AddedEduCess": 0,
     "AllGross": 807320,
     "Gross80D": 0,
-    "NetTax": 57286,
+    "NetTax": 57287,
     "TaxableIncome": 712920,
     "association": "ABPTA",
     "id": "teachers398-57de8c79",
@@ -1455,7 +1455,7 @@
     "AddedEduCess": 0,
     "AllGross": 513856,
     "Gross80D": 0,
-    "NetTax": -1,
+    "NetTax": 0,
     "TaxableIncome": 437456,
     "association": "WBTPTA",
     "id": "teachers396-5d500120",
@@ -1587,7 +1587,7 @@
     "AddedEduCess": 0,
     "AllGross": 130440,
     "Gross80D": 0,
-    "NetTax": -1,
+    "NetTax": 0,
     "TaxableIncome": 79840,
     "association": "WBTPTA",
     "id": "teachers399-6d7dd594",
@@ -2590,6 +2590,18 @@
     "limit80C": 14000,
     "school": "NOWPARA JUNIOR BASIC SCHOOL",
     "tname": "TARUN KUMAR BARUI"
+  },
+  {
+    "AddedEduCess": 0,
+    "AllGross": 52150,
+    "Gross80D": 0,
+    "NetTax": 0,
+    "TaxableIncome": 0,
+    "association": "WBTPTA",
+    "id": "teachers397-accee9b3",
+    "limit80C": 2500,
+    "school": "NOWPARA JUNIOR BASIC SCHOOL",
+    "tname": "PURBASREE SILL"
   },
   {
     "AddedEduCess": 0,
@@ -3646,18 +3658,6 @@
     "limit80C": 24000,
     "school": "UTTAR SEHAGORI PRIMARY SCHOOL",
     "tname": "SANCHITA DAS"
-  },
-  {
-    "AddedEduCess": "",
-    "AllGross": "",
-    "Gross80D": "",
-    "NetTax": "",
-    "TaxableIncome": "",
-    "association": "",
-    "id": "",
-    "limit80C": "",
-    "school": "",
-    "tname": ""
   },
   {
     "AddedEduCess": "",
